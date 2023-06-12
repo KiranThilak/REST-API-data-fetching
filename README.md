@@ -16,7 +16,7 @@ Key Features:
 
 ## Live Demo
 
-Check out the live demo of the project [here]([https://your-live-demo-link](https://rest-api-data-fetching.pages.dev/](https://rest-api-data-fetching.pages.dev/)).
+Check out the live demo of the project [here](https://rest-api-data-fetching.pages.dev/](https://rest-api-data-fetching.pages.dev/).
 
 
 
