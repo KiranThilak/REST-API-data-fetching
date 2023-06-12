@@ -14,7 +14,9 @@ Key Features:
 
 - **Rendered data display:** Fetched data is rendered on the user interface using React components and HTML elements. The project demonstrates best practices for displaying data in a table and visually appealing manner.
 
+## Live Demo
 
+Check out the live demo of the project [here](rest-api-data-fetching.pages.dev).
 
 
 
